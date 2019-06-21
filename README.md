@@ -1,1 +1,8 @@
 # SONY_Spresense_ArduinoCar
+东软日本索尼公司实训活动
+使用sony提供的Spresense制作Arduino循迹避障小车
+现有功能
+四路循迹
+红外避障
+调用摄像头显示到LCD屏幕
+多核的使用
